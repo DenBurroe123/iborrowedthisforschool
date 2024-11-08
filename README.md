@@ -1,4 +1,4 @@
-<h1 align="center">DBP's Math</h1>
+<h1 align="center">I copied Math</h1>
 DBP's Math is a unblocked game website for all your needs. It has many games, is easy to contribute to, and is static. 
 
 #  FAQ
